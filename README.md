@@ -1,3 +1,2 @@
-# sandbox
-My general repo for everythin
+# My awesome codebase
 
